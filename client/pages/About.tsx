@@ -46,7 +46,7 @@ export default function About() {
               </h2>
               <div className="space-y-4 text-muted-foreground">
                 <p>
-                  WebCraft was founded with a simple yet powerful vision: to democratize access to 
+                  Burmuda Technologies was founded with a simple yet powerful vision: to democratize access to 
                   high-quality web development services for businesses of all sizes. We believe that 
                   every business deserves a professional online presence that truly represents their 
                   brand and values.

@@ -8,7 +8,7 @@
 const fs = require("fs");
 const path = require("path");
 
-console.log("🔍 WebCraft Agency - Pre-Deployment Verification\n");
+console.log("🔍 Burmuda Technologies - Pre-Deployment Verification\n");
 
 const checks = [];
 

@@ -297,7 +297,7 @@ export default function Index() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <div className="relative z-10">
               <h2 className="text-3xl sm:text-4xl font-bold text-foreground mb-6">
-                Why Choose WebCraft?
+                Why Choose burmudatechnologies?
               </h2>
               <p className="text-lg text-muted-foreground mb-8">
                 We combine technical expertise with creative design to deliver websites and web applications 
@@ -402,7 +402,7 @@ export default function Index() {
                   </div>
                   <div>
                     <div className="font-medium">Email</div>
-                    <div className="text-muted-foreground">hello@webcraft.com</div>
+                    <div className="text-muted-foreground">ankit.yforwork@gmail.com</div>
                   </div>
                 </div>
                 
@@ -477,7 +477,7 @@ export default function Index() {
                 <div className="w-8 h-8 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center shadow-lg">
                   <Code2 className="w-5 h-5 text-white" />
                 </div>
-                <span className="text-xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">WebCraft</span>
+                <span className="text-xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">Burmuda Technologies</span>
               </div>
               <p className="text-muted-foreground mb-4 max-w-md">
                 Professional web development services for businesses looking to establish 
@@ -513,7 +513,7 @@ export default function Index() {
           </div>
           
           <div className="border-t mt-12 pt-8 text-center text-muted-foreground">
-            <p>&copy; 2024 WebCraft. All rights reserved.</p>
+            <p>&copy; 2024 Burmuda Technologies. All rights reserved.</p>
           </div>
         </div>
       </footer>

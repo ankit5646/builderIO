@@ -264,7 +264,7 @@ export default function Contact() {
                     </div>
                     <div>
                       <div className="font-medium">Email</div>
-                      <div className="text-muted-foreground text-sm">hello@webcraft.com</div>
+                      <div className="text-muted-foreground text-sm">ankit.tforwork@gmail.com</div>
                     </div>
                   </div>
                   

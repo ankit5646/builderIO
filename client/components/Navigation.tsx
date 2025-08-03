@@ -50,7 +50,7 @@ export default function Navigation() {
             <div className="w-8 h-8 bg-gradient-to-br from-primary to-purple-600 rounded-lg flex items-center justify-center shadow-lg">
               <Code2 className="w-5 h-5 text-white" />
             </div>
-            <span className="text-xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">WebCraft</span>
+            <span className="text-xl font-bold bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">Burmuda Technologies</span>
           </Link>
           
           {/* Desktop Navigation */}
